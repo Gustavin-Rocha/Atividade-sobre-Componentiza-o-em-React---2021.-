@@ -1,4 +1,4 @@
-Componentização em React.
+# Componentização em React.
 
 Continuidadede nas aulas de react.
 
